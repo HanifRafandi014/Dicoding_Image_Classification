@@ -3,7 +3,7 @@ Tool : Google Collab <br>
 Programming Language : Python <br>
 Libraries : <br>
 Visualization : <br>
-Source Dataset : Rakamin Academy <br>
+Source Dataset : Dicoding <br>
 
 # 📂 STAGE 0: Business Understanding
 ## Background Project :
